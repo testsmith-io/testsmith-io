@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Badge](https://github.com/testsmith-io/training-testng-selenium-webdriver/actions/workflows/maven.yml/badge.svg)
+
+
 <!--
 **testsmith-io/testsmith-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
